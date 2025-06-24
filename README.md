@@ -8,12 +8,9 @@
   </a>
 </div>
 
-- Você também pode assistir diretamente pelo [Google Drive](https://drive.google.com/file/d/1fOXH1N4PeIdMA2rLtqMHsjb19KXiw6pG/view?usp=sharing)
-
----
-## Imagens rápidas da execução do programa
-
 ![Gif do QEMU rodando a aplicação](imgs/quemuu.gif)
+
+- Você também pode assistir diretamente pelo [Google Drive](https://drive.google.com/file/d/1fOXH1N4PeIdMA2rLtqMHsjb19KXiw6pG/view?usp=sharing)
 
 
 ---
