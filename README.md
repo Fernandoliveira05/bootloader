@@ -11,6 +11,12 @@
 - Você também pode assistir diretamente pelo [Google Drive](https://drive.google.com/file/d/1fOXH1N4PeIdMA2rLtqMHsjb19KXiw6pG/view?usp=sharing)
 
 ---
+## Imagens rápidas da execução do programa
+
+![Gif do QEMU rodando a aplicação](imgs/quemuu.gif)
+
+
+---
 
 ## Bootloader, o que é? 
 Um bootloader é um programa que é executado sempre que um dispositivo é ligado/reiniciado. Ele é o intermediário entre o hardware e o sistema operacional, garantindo que o dispositivo inicie corretamente. Simplificando, um bootloader é um programa que prepara terreno para que o sistema operacional seja carregado e executado. 
