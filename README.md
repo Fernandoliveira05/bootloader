@@ -3,12 +3,12 @@
 ## Assista ao vídeo:
 - A imagem abaixo te redireciona para o vídeo explicativo do projeto:
 <div align="center">
-  <a href="https://youtu.be/gsy02Z2B4xk">
+  <a href="https://youtu.be/1XoEUl4qwGY">
     <img src="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-Bootloader-1060x596.png" alt="Vídeo do Projeto ULA Completa">
   </a>
 </div>
 
-- Você também pode assistir diretamente pelo [Google Drive](https://drive.google.com/file/d/1IkeL86ejMJjHrQypcY9h9-8n23MyaXQx/view?usp=sharing)
+- Você também pode assistir diretamente pelo [Google Drive](https://drive.google.com/file/d/1fOXH1N4PeIdMA2rLtqMHsjb19KXiw6pG/view?usp=sharing)
 
 ---
 
